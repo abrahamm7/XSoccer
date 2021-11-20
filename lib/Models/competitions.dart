@@ -1,3 +1,5 @@
+import 'package:equatable/equatable.dart';
+
 class Leagues {
   Leagues({
     required this.count,
